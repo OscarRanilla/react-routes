@@ -2,8 +2,7 @@ const projects = [
   {
     id: 1,
     name: 'Project 1',
-    image:
-      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png',
     description: 'This is a description of project 1',
     url: 'https://www.google.com',
   },
